@@ -4,7 +4,7 @@ Aplicativo agenda de contatos em Flutter. O aplicativo contém as funcionalidade
 
 ---
 
-**Autor:** Matheus Siqueira Silva (Slvsccp)
+**Autor:** Matheus Siqueira Silva (Slvsccp)<br>
 **Data:** 15/05/2021
 
 # Tecnologias Utilizadas:
