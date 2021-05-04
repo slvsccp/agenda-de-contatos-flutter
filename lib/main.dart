@@ -1,3 +1,5 @@
+import 'package:contatos/database/app_database.dart';
+import 'package:contatos/models/contact.dart';
 import 'package:contatos/screens/contacts_form.dart';
 import 'package:contatos/screens/contacts_list.dart';
 import 'package:contatos/screens/dashboard.dart';
@@ -15,4 +17,3 @@ class MyAppContatos extends StatelessWidget {
     );
   }
 }
-

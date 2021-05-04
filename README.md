@@ -1,16 +1,20 @@
-# contatos
+# Aplicativo agenda de contatos
 
-A new Flutter project.
+Aplicativo agenda de contatos em Flutter. O aplicativo contém as funcionalidades básicas, desenvolvido para a matéria de Programação do 1ª período de Análise e Desenvolvimento de Sistemas.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+**Autor:** Matheus Siqueira Silva (Slvsccp)
+**Data:** 15/05/2021
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias Utilizadas:
+- **Vscode** como Editor
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Tela Inicial
+<img src="https://user-images.githubusercontent.com/68405731/117055768-e9878280-acf1-11eb-9ea0-c64e62257615.png" width="250" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Lista de contatos
+<img src="https://user-images.githubusercontent.com/68405731/117055921-1b98e480-acf2-11eb-804b-cd7e4f32808b.png" width="250" />
+
+### Adicionar novo contatos
+<img src="https://user-images.githubusercontent.com/68405731/117056004-323f3b80-acf2-11eb-8067-0e7537400fbb.png" width="250" />
