@@ -9,6 +9,7 @@ Aplicativo agenda de contatos em Flutter. O aplicativo contém as funcionalidade
 
 ## Tecnologias Utilizadas:
 - **Vscode** como Editor
+- - **Android Studio** como Emulador
 
 ### Tela Inicial
 <img src="https://user-images.githubusercontent.com/68405731/117055768-e9878280-acf1-11eb-9ea0-c64e62257615.png" width="250" />
