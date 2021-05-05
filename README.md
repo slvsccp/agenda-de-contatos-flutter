@@ -17,5 +17,5 @@ Aplicativo agenda de contatos em Flutter. O aplicativo contém as funcionalidade
 ### Lista de contatos
 <img src="https://user-images.githubusercontent.com/68405731/117055921-1b98e480-acf2-11eb-804b-cd7e4f32808b.png" width="250" />
 
-### Adicionar novo contatos
+### Adicionar novo contato
 <img src="https://user-images.githubusercontent.com/68405731/117056004-323f3b80-acf2-11eb-8067-0e7537400fbb.png" width="250" />
