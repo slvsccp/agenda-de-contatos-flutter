@@ -1,6 +1,6 @@
 # Aplicativo agenda de contatos
 
-Aplicativo agenda de contatos em Flutter. O aplicativo contém as funcionalidades básicas, desenvolvido para a matéria de Programação do 2ª período de Análise e Desenvolvimento de Sistemas.
+Aplicativo agenda de contatos em Flutter. O aplicativo contém as funcionalidades básicas.
 
 ---
 
